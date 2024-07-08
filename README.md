@@ -1,19 +1,5 @@
-# :earth_americas: GDP dashboard template
+# Banana Auto Farm Panel
 
-A simple Streamlit app showing the GDP of different countries in the world.
+![image](https://github.com/gsalbernaz/portfolio-gabrielalbernaz/assets/134719168/b6648a8a-c677-43c5-ad4e-bbf48245b5b9)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+![image](https://github.com/gsalbernaz/portfolio-gabrielalbernaz/assets/134719168/efa43784-4627-4eb6-98ad-353589f54791)
